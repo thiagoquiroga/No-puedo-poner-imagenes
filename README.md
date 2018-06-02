@@ -1,0 +1,2 @@
+# No-puedo-poner-imagenes
+No puedo poner imagenes desde una hoja de estilos externas ni internas, no manejo muy bien el ingles y lo mucho que investigue no pude encontrar ninguna opcion para solucionar mi problema, tengo mi pagina html en la misma carpeta que la imagen y aun asi no me funciona, puede ser que el problema sea por que tengo el programa (Atom) instalado en mi disco c y mis archivos en el D pero no creo, espero puedan ayudarme gracias.
